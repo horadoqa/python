@@ -1,0 +1,101 @@
+date,name,age,city,state,fare,gender,occupation
+2023-07-29,Claudia Dudley,55,Austin,Mississippi,39.94,Female,Architect
+2020-07-06,Jeffrey Hanna,29,Oklahoma City,New York,45.12,Female,Pilot
+2022-05-22,Brittany Brown,78,Washington,Idaho,68.61,Male,Nurse
+2021-11-11,Samantha Johnson,60,Fresno,Maine,98.96,Male,Software Engineer
+2020-08-14,Glenn Everett,35,Milwaukee,Alaska,99.06,Male,Accountant
+2021-06-29,Patricia Thomas,79,Louisville,North Dakota,97.29,Male,Artist
+2023-01-20,Nicholas Garza,58,Columbus,Missouri,16.98,Male,Software Engineer
+2020-11-09,Ashlee Reyes,31,Austin,New Hampshire,17.33,Female,Doctor
+2023-08-21,Douglas Ford,79,Long Beach,Washington,74.65,Female,Architect
+2021-11-19,Lorraine Henderson,55,Milwaukee,Minnesota,13.96,Male,Sales Manager
+2023-02-04,Riley Norris,43,Tucson,Pennsylvania,43.26,Male,Firefighter
+2022-05-18,Nicholas Zavala,75,Mesa,Indiana,89.54,Female,Musician
+2023-12-03,Brian Alvarez,23,El Paso,Pennsylvania,26.54,Female,Pilot
+2020-10-03,Melissa Roach,61,San Jose,Arizona,32.08,Female,Accountant
+2023-07-15,Kimberly Wright,34,Indianapolis,Washington,41.92,Female,Artist
+2023-06-21,Andrew Cameron,69,Portland,New Mexico,43.04,Male,Pilot
+2022-06-15,Sheri Chang,52,Miami,Pennsylvania,90.94,Female,Marketing Specialist
+2022-11-17,Rachel Mooney,51,Jacksonville,Idaho,86.55,Male,Artist
+2023-03-23,Anne Robinson,56,Oklahoma City,Hawaii,95.47,Female,Software Engineer
+2023-09-22,Kristen Bowman,21,Louisville,Minnesota,61.96,Male,Nurse
+2020-07-19,Kayla Scott,69,Tucson,Idaho,79.09,Male,Mechanic
+2022-04-18,Sydney Holland,79,Memphis,Massachusetts,91.4,Male,Doctor
+2022-09-16,Daniel Fisher,18,Jacksonville,North Carolina,37.53,Female,Plumber
+2023-11-17,Kayla Ellison,27,San Francisco,Utah,72.48,Male,Sales Manager
+2022-12-22,Tiffany Phillips,42,Indianapolis,New Jersey,24.07,Male,Teacher
+2022-04-22,Kendra Pugh,51,Mesa,Arkansas,38.5,Female,Police Officer
+2020-05-14,Michael Boyer,18,Memphis,Ohio,70.3,Female,Architect
+2023-05-16,Michael Hanna,65,Louisville,Arizona,36.61,Female,Mechanic
+2020-06-24,Richard Dorsey,55,Tucson,Missouri,76.38,Female,Pilot
+2023-11-17,David Allen,36,Baltimore,Wisconsin,12.48,Female,Artist
+2022-06-22,Danielle Dickson,73,New York,Arizona,48.93,Female,Lawyer
+2021-10-11,Christopher Ruiz,48,San Jose,Florida,55.38,Male,Doctor
+2022-01-28,Rachel Allen,66,Albuquerque,Alabama,13.39,Female,Chef
+2021-03-07,Jaime Miller,54,Columbus,West Virginia,38.66,Male,Police Officer
+2023-09-10,Eric Chen,29,Louisville,Ohio,89.38,Female,Sales Manager
+2021-05-20,Frederick Smith,58,Denver,Maine,10.68,Male,Software Engineer
+2023-09-11,Patricia Lynch,39,Portland,Michigan,34.77,Male,Electrician
+2020-09-25,Shannon King,42,Long Beach,Kentucky,47.53,Female,Plumber
+2020-05-15,Debra Johnson,27,Raleigh,Ohio,47.2,Male,Firefighter
+2023-09-03,Christopher Foster,47,Charlotte,Illinois,63.62,Female,Data Scientist
+2023-12-04,Tristan Peterson,64,Indianapolis,Rhode Island,98.82,Female,Musician
+2021-02-17,Kimberly Miller,36,Jacksonville,Oklahoma,25.99,Female,Plumber
+2022-08-21,Sean Burns,36,Fort Worth,Texas,60.94,Male,Musician
+2021-01-11,Ryan Nguyen,77,San Francisco,New Hampshire,74.23,Female,Artist
+2022-02-09,Gary Barnes,18,New Orleans,New Hampshire,14.01,Male,Police Officer
+2022-06-13,Thomas King,41,Indianapolis,Rhode Island,30.57,Male,Marketing Specialist
+2021-01-10,Kimberly Williams,33,Fort Worth,North Dakota,23.16,Female,Musician
+2020-04-16,Veronica Wright,53,Miami,Colorado,34.13,Male,Accountant
+2021-04-29,Kathleen Oneill,71,San Jose,Montana,30.24,Male,Plumber
+2020-03-14,Gabriel Johnston,54,Tucson,California,78.82,Male,Electrician
+2020-05-12,Jason Taylor,80,Charlotte,Kentucky,30.48,Male,Artist
+2020-06-25,James Hawkins,34,Austin,Colorado,82.94,Female,Marketing Specialist
+2022-01-16,Mary Adams,24,Atlanta,Massachusetts,89.79,Male,Lawyer
+2020-01-12,Courtney Thomas,72,Seattle,New Mexico,19.21,Male,Plumber
+2021-03-24,Margaret Martinez,44,Omaha,Colorado,34.06,Female,Architect
+2023-05-27,Christina Robles,73,Columbus,South Dakota,16.99,Male,Firefighter
+2021-01-12,Jared Holloway,59,Baltimore,Delaware,33.48,Female,Teacher
+2020-07-08,Miss Katelyn Robinson,30,Las Vegas,California,92.25,Female,Accountant
+2022-05-03,Deborah Ross,66,Sacramento,Oregon,13.24,Male,Mechanic
+2020-08-30,David Perez,32,Phoenix,Tennessee,94.69,Female,Nurse
+2021-05-11,Kimberly Robinson,74,Fresno,Arkansas,73.15,Female,Architect
+2023-02-17,Penny Becker,42,Tulsa,Delaware,16.24,Female,Pilot
+2020-09-09,Cody Lane,58,Denver,New Mexico,83.46,Female,Data Scientist
+2023-07-23,Keith Reed,18,San Francisco,North Dakota,22.36,Female,Architect
+2023-04-21,Bradley Underwood,28,San Jose,West Virginia,71.04,Female,Architect
+2022-08-20,Christine Jefferson,69,Omaha,Georgia,45.47,Female,Marketing Specialist
+2021-09-22,Zachary Simmons,28,Philadelphia,North Dakota,31.89,Male,Architect
+2022-04-30,Donald Deleon,45,Oakland,New Mexico,94.63,Male,Doctor
+2023-06-08,David Johnson,80,Tucson,New Mexico,58.27,Female,Doctor
+2021-03-14,Jennifer Ramos,59,Oklahoma City,Louisiana,33.78,Female,Doctor
+2020-06-30,Michelle Carroll,67,Albuquerque,Vermont,58.84,Male,Artist
+2022-07-05,Diana Romero,52,Fort Worth,Tennessee,35.79,Female,Marketing Specialist
+2023-03-18,Brad Perez,68,Memphis,Tennessee,22.78,Male,Marketing Specialist
+2021-10-02,Daniel Rodriguez,60,Tucson,Colorado,35.15,Female,Lawyer
+2020-01-26,Andrew King,19,Colorado Springs,South Carolina,13.57,Male,Pilot
+2023-04-15,Adam Green,52,Colorado Springs,Connecticut,97.63,Female,Data Scientist
+2021-10-28,Evan Chavez,18,Seattle,Virginia,64.36,Female,Electrician
+2022-03-18,Dillon Johnson,39,New York,Hawaii,26.5,Female,Plumber
+2023-02-04,Heather Robertson DDS,51,Chicago,Montana,11.55,Male,Sales Manager
+2022-06-23,Ryan Mitchell,53,Arlington,Tennessee,33.63,Male,Plumber
+2023-09-23,Dr. Edward Williamson,29,Charlotte,Massachusetts,51.96,Male,Mechanic
+2021-12-04,Sarah Bradley,59,Mesa,Nevada,50.45,Male,Chef
+2022-04-04,Amy Reyes,70,Seattle,Michigan,10.11,Male,Pilot
+2022-09-23,Crystal Nelson,79,Indianapolis,New Hampshire,74.41,Female,Musician
+2020-03-22,Julie Ross,18,Long Beach,Nevada,42.75,Female,Teacher
+2023-11-09,Kimberly Hamilton,45,Oakland,Delaware,64.42,Female,Teacher
+2022-07-24,Sara Hall,31,San Diego,Montana,32.99,Male,Teacher
+2021-01-19,Kelly Garcia,61,Omaha,Maryland,29.95,Female,Lawyer
+2021-10-16,Corey Turner,23,Atlanta,California,60.95,Female,Firefighter
+2021-02-14,Jean Sullivan,59,Virginia Beach,Texas,31.36,Female,Marketing Specialist
+2022-06-04,Jonathan Ingram,22,Omaha,Montana,70.29,Female,Firefighter
+2021-10-31,Danny Martinez,37,Boston,North Carolina,25.86,Male,Plumber
+2021-10-16,Victoria Peters,41,New York,Oklahoma,57.45,Female,Plumber
+2023-05-28,Michael Shaw,72,Indianapolis,Nevada,19.27,Male,Musician
+2023-08-08,Daniel Randolph,38,Milwaukee,Maine,91.35,Female,Artist
+2020-07-25,William Patrick,69,Houston,Nebraska,19.73,Male,Nurse
+2020-10-23,Alice Thompson,31,Las Vegas,Maine,24.32,Female,Writer
+2022-10-23,Kathy Paul,66,Jacksonville,Nevada,45.49,Female,Data Scientist
+2021-04-16,Mary Alexander,43,Minneapolis,Alabama,25.6,Male,Electrician
+2022-10-30,Howard Johnson,50,Philadelphia,California,87.25,Male,Marketing Specialist
